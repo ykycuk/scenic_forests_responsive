@@ -1,0 +1,11 @@
+{
+  "homepage": "https://ykycuk.github.io/scenic_forests_responsive",
+
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
